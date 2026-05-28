@@ -2,24 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Lecturer & Researcher · <a href="https://www.ugm.ac.id">Universitas Gadjah Mada</a>, Yogyakarta, Indonesia
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dept. of Computer Science and Electronics</p>
+    <p>Universitas Gadjah Mada</p>
+    <p>Yogyakarta, Indonesia</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Lecturer and Researcher in the Department of Computer Science and Electronics at
+[Universitas Gadjah Mada (UGM)](https://www.ugm.ac.id), Indonesia.
+I received my Dr.techn. (Doctor of Technical Sciences) from
+[Universität Wien](https://www.univie.ac.at), Austria in November 2024,
+where my doctoral research developed intelligent systems approaches for supporting
+privacy awareness in agile software development.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of **Privacy Engineering**, **Requirements Engineering**,
+**Natural Language Processing**, and **Artificial Intelligence**. I build tools and methods
+based on machine learning and NLP to help software developers integrate privacy considerations
+into requirements and design processes. I am also active in applied NLP for low-resource
+languages, health informatics, and knowledge graph-based systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At UGM I teach graduate and undergraduate courses on Advanced NLP, Software Development,
+Data Structures, Object-Oriented Programming, Web Development, Database Systems,
+Digital Transformation, Scalable Software Development, and Data Warehouse & Business Intelligence.
+
+I am currently leading and co-leading multiple research projects funded by
+[ASEA-UNINET](https://asea-uninet.org/), [AI4PEP](https://ai4pep.org/),
+and Universitas Gadjah Mada, spanning early warning systems, health dataset annotation,
+neurosymbolic AI, and data protection regulation harmonization.
