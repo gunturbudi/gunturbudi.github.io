@@ -11,4 +11,4 @@ nav_order: 5
   🚧 <strong>Under Construction</strong> — Course pages are being set up. Details coming soon.
 </div>
 
-I teach a variety of courses at the Department of Computer Science and Electronics, Universitas Gadjah Mada, spanning foundational programming, core data structures, software engineering, and advanced topics in natural language processing and scalable systems development.
+I teach in the **Undergraduate Program in Computer Science** and the **Master's Program in Computer Science and Artificial Intelligence** at Universitas Gadjah Mada, spanning foundational programming, core data structures, software engineering, and advanced topics in natural language processing and scalable systems development.
