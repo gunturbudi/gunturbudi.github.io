@@ -33,9 +33,8 @@ into requirements and design processes. I am also active in applied NLP for low-
 languages, health informatics, and knowledge graph-based systems.
 
 At UGM I teach in the Undergraduate Program in Computer Science and the Master's Program
-in Computer Science and Artificial Intelligence. Courses include Advanced NLP, Software Development,
-Data Structures, Object-Oriented Programming, Web Development, Database Systems,
-Digital Transformation, Scalable Software Development, and Data Warehouse & Business Intelligence.
+in Computer Science and Artificial Intelligence, covering topics across software engineering,
+programming, databases, networks, security, NLP, and AI.
 
 I am currently leading and co-leading multiple research projects funded by
 [ASEA-UNINET](https://asea-uninet.org/), [AI4PEP](https://ai4pep.org/),
