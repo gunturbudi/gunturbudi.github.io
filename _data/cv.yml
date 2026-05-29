@@ -1,16 +1,20 @@
-﻿- title: General Information
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Guntur Budi Herwanto
+      value: Dr.techn. Guntur Budi Herwanto
     - name: Position
       value: Lecturer and Researcher
     - name: Institution
       value: Universitas Gadjah Mada
     - name: Email
       value: gunturbudi@ugm.ac.id
-    - name: Languages
-      value: Indonesian (native), English (professional)
+    - name: Phone
+      value: "+6281294436137"
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=jan9BnkAAAAJ&hl=en">jan9BnkAAAAJ</a>
+    - name: GitHub
+      value: <a href="https://github.com/gunturbudi">github.com/gunturbudi</a>
 
 - title: Education
   type: time_table
@@ -29,7 +33,15 @@
       institution: Universitas Gadjah Mada, Yogyakarta, Indonesia
       year: 2008–2012
       description:
-        - "Thesis: Determining the Suitability of Green Open Space Location with GIS and Spatial AHP"
+        - "Thesis: Determining the Suitability of Green Open Space Location with Geographic Information System and Spatial Analytical Hierarchy Process (Case Study: Yogyakarta City)"
+
+- title: Skills Summary
+  type: list
+  contents:
+    - "<strong>Research Interests:</strong> Software Engineering, Requirements Engineering, Natural Language Processing, Privacy Engineering, Artificial Intelligence"
+    - "<strong>Technical Skills:</strong> Machine Learning Programming, Large Language Models, Python"
+    - "<strong>Tools &amp; Frameworks:</strong> Django, Flask, Git, Docker, LaTeX, Jupyter"
+    - "<strong>Soft Skills:</strong> Academic Writing, Teaching, Research Supervision, Public Speaking"
 
 - title: Experience
   type: time_table
@@ -39,31 +51,70 @@
       year: 2016–present
       description:
         - "Programs: Undergraduate Computer Science; Master's Computer Science and Artificial Intelligence"
-        - "Topics: Software Engineering, Programming, Databases, Networks, Security, NLP, AI, Digital Transformation (38 courses total)"
+        - "Courses: Advanced NLP, Programming, Data Structures, OOP, Web Development, Software Development, Database, Digital Transformation, Scalable Software Development, Data Warehouse and Business Intelligence"
     - title: Software Developer
-      institution: Center for Economic and Public Policy Studies, UGM, Indonesia
+      institution: Center for Economic and Public Policy Studies, Universitas Gadjah Mada, Indonesia
       year: 2012–2019
       description:
-        - Developed e-government property tax software deployed in ~15 regions in Indonesia (.NET framework)
+        - "Property Tax Software Development: Creation of an e-government system for land use and property tax. Desktop-based, developed with .NET framework."
+        - "Impact: The software was deployed in about 15 regions in Indonesia."
     - title: Web Developer
       institution: PT Gamatechno Indonesia, Yogyakarta, Indonesia
       year: 2010–2012
       description:
-        - Developed web-based e-government and ERP systems (PHP, MySQL)
+        - "Information System Development: Development of a web-based e-government and enterprise resource planning system. Backend with PHP Framework and MySQL."
 
-- title: Research Interests
+- title: Research Projects
   type: list
   contents:
-    - Privacy Engineering
-    - Requirements Engineering
-    - Natural Language Processing
-    - Artificial Intelligence
-    - Software Engineering
+    - "<strong>Intelligent Early Warning and Response System (2025)</strong> — Based on Health System Routine Data and Environment Data to Improve National Health Resilience. Funded by AI4PEP."
+    - "<strong>Privacy Engineering untuk Personal Electronic Health Record (2025)</strong> — Research on privacy engineering approaches for personal e-health applications. Funded by Universitas Gadjah Mada."
+    - "<strong>Digitalisasi Penilaian Mutu Eksternal Malaria (2025)</strong> — Digitalization of external quality assessment for malaria diagnosis. Funded by Universitas Gadjah Mada."
+    - "<strong>ASEA-UNINET: Health Dataset Annotation Framework (2025)</strong> — Designing an Annotation Framework for Creating a Health Dataset from Layperson Medical Forums in Bahasa Indonesia."
+    - "<strong>ASEA-UNINET: Data Protection Regulation Harmonization (2025)</strong> — Harmonizing Data Protection Regulation between EU GDPR, Thailand PDPA, and Indonesian UU-PDP."
+    - "<strong>ASEA-UNINET: Neurosymbolic AI System Engineering (2025)</strong> — Collaborative Neurosymbolic AI System Engineering through BEAM Framework."
+    - "<strong>OntoTrans — Ontology driven Open Translation Environment (2023)</strong> — EU Horizon 2020, Grant Agreement No 862136."
+    - "<strong>An Intelligent Systems Approach for Supporting Privacy Awareness in Agile Software Development (2024)</strong> — Doctoral Research Project. NLP/ML tools for privacy requirements engineering."
+    - "<strong>Design and Prototype of TOMO (2021)</strong> — App for improving drug-resistant TB treatment adherence. Collaboration with UGM Public Health Department."
+    - "<strong>Combination of Web Usage Mining and Web Content Mining (2016)</strong> — Web mining algorithm for user navigation profiling and webpage recommendation."
 
-- title: Technical Skills
+- title: Publications
   type: list
   contents:
-    - "Machine Learning & Deep Learning (Python, PyTorch, HuggingFace)"
-    - "Large Language Models (prompting, fine-tuning, RAG)"
-    - "Web Frameworks: Django, Flask"
-    - "Tools: Git, Docker, LaTeX, Jupyter"
+    - "<strong>[LNCS 2026]</strong> Herwanto, G. B., Nurwidyantoro, A., Ningtyas, A. M., Nurfajri, M. O., Quirchmayr, G., &amp; Tjoa, A. M. \"Privacy Patterns and Objectives for Legally Compliant Software Based on the Indonesia's PDP Law.\" <em>Lecture Notes in Computer Science</em>, Vol. 16330, pp. 266–281."
+    - "<strong>[CEUR 2025]</strong> Herwanto, G. B., Tsaneva, S., &amp; Sabou, M. \"Ontology Corpora for LLM-based Knowledge Engineering Research.\" <em>CEUR Workshop Proceedings</em>, Vol. 3953."
+    - "<strong>[CEUR 2025]</strong> Tsaneva, S., Herwanto, G. B., &amp; Sabou, M. \"Benchmarking Ontology Validation Capabilities of LLMs.\" <em>CEUR Workshop Proceedings</em>, Vol. 3953."
+    - "<strong>[IEEE Access 2024]</strong> Herwanto, G. B., Quirchmayr, G., &amp; Tjoa, A. M. \"Leveraging NLP Techniques for Privacy Requirements Engineering in User Stories.\" Vol. 12, pp. 22167–22189. <em>Cited by: 18</em>"
+    - "<strong>[IEEE Access 2024]</strong> Herwanto, G. B., Ekaputra, F. J., Quirchmayr, G., &amp; Tjoa, A. M. \"Toward a Holistic Privacy Requirements Engineering Process: Insights from a Systematic Literature Review.\" Vol. 12, pp. 47518–47542. <em>Cited by: 5</em>"
+    - "<strong>[REFSQ 2024]</strong> Herwanto, G. B., Quirchmayr, G., &amp; Tjoa, A. M. \"Learning to Rank Privacy Design Patterns: A Semantic Approach to Meeting Privacy Requirements.\" <em>LNCS</em> Vol. 14588, pp. 57–73. <em>Cited by: 2</em>"
+    - "<strong>[NLP4RE 2024]</strong> Herwanto, G. B. \"Automating Data Flow Diagram Generation from User Stories Using Large Language Models.\" <em>CEUR Workshop Proceedings</em>, Vol. 3672. <em>Cited by: 3</em>"
+    - "<strong>[I4CS 2024]</strong> Herwanto, G. B., Putri, D. U. K., Ningtyas, A. M., Fuad, A., Quirchmayr, G., &amp; Tjoa, A. M. \"Integrating Contextual Integrity in Privacy Requirements Engineering: A Study Case in Personal E-Health Applications.\" <em>CCIS</em> Vol. 2109, pp. 237–256. <em>Cited by: 1</em>"
+    - "<strong>[VOILA@ISWC 2023]</strong> Herwanto, G. B., Ekaputra, F. J., Piroi, F., &amp; Sabou, M. \"Towards A Knowledge Graph-based Exploratory Search for Privacy Engineering.\" <em>CEUR Workshop Proceedings</em>, Vol. 3508, pp. 49–56. <em>Cited by: 1</em>"
+    - "<strong>[IC3INA 2023]</strong> Sari, Y., Hastuti, R. P., &amp; Herwanto, G. B. \"Using Linguistic and Stylometric Features for Satirical News Detection in Bahasa Indonesia.\" pp. 388–393."
+    - "<strong>[IEEE RE 2022]</strong> Herwanto, G. B., Quirchmayr, G., &amp; Tjoa, A. M. \"PrivacyStory: Tool Support for Extracting Privacy Requirements from User Stories.\" pp. 264–265. <em>Cited by: 10</em>"
+    - "<strong>[REFSQ 2022]</strong> Herwanto, G. B., Quirchmayr, G., &amp; Tjoa, A. M. \"From User Stories to Data Flow Diagrams for Privacy Awareness: A Research Preview.\" <em>LNCS</em> Vol. 13216, pp. 148–155. <em>Cited by: 8</em>"
+    - "<strong>[REFSQ Workshops 2022]</strong> Herwanto, G. B. \"An Intelligent Systems Approach for Supporting Privacy Awareness in Agile Software Development.\" <em>CEUR Workshop Proceedings</em>, Vol. 3122."
+    - "<strong>[CLEF 2022]</strong> Ningtyas, A. M., El-Ebshihy, A., Herwanto, G. B., Piroi, F., &amp; Hanbury, A. \"Leveraging Wikipedia Knowledge for Distant Supervision in Medical Concept Normalization.\" <em>LNCS</em> Vol. 13390, pp. 33–47. <em>Cited by: 2</em>"
+    - "<strong>[IEEE REW 2021]</strong> Herwanto, G. B., Quirchmayr, G., &amp; Tjoa, A. M. \"A Named Entity Recognition Based Approach for Privacy Requirements Engineering.\" pp. 406–411. <em>Cited by: 24</em>"
+    - "<strong>[F1000Research 2021]</strong> Fuad, A., Herwanto, G. B., et al. \"Design and prototype of TOMO: an app for improving drug resistant TB treatment adherence.\" Vol. 10, 983. <em>Cited by: 4</em>"
+    - "<strong>[ISRITI 2019]</strong> Herwanto, G. B., Ningtyas, A. M., Nugraha, K. E., &amp; Trisna, I. N. P. \"Hate Speech and Abusive Language Classification using fastText.\" pp. 69–72. <em>Cited by: 21</em>"
+    - "<strong>[ECASE 2019]</strong> Ho-Quang, T., Chaudron, M. R. V., Robles, G., &amp; Herwanto, G. B. \"Towards an infrastructure for empirical research into software architecture.\" pp. 34–41. <em>Cited by: 6</em>"
+    - "<strong>[ICST 2019]</strong> Prabowo, D. A., &amp; Herwanto, G. B. \"Duplicate question detection in question answer website using convolutional neural network.\" <em>Cited by: 22</em>"
+    - "<strong>[ICST 2019]</strong> Musyaffanto, I. R., Herwanto, G. B., &amp; Riasetiawan, M. \"Automatic extractive text summarization for Indonesian news articles using maximal marginal relevance and NMF.\" <em>Cited by: 5</em>"
+    - "<strong>[ICoDSE 2018]</strong> Ningtyas, A. M., &amp; Herwanto, G. B. \"The Influence of Negation Handling on Sentiment Analysis in Bahasa Indonesia.\" <em>Cited by: 6</em>"
+    - "<strong>[BioMIC 2018]</strong> Habibie, F., Afiahayati, Herwanto, G. B., Hartati, S., &amp; Frisky, A. Z. K. \"A Parallel ClustalW Algorithm on Multi-Raspberry Pis for Multiple Sequence Alignment.\""
+    - "<strong>[ICELTICs 2018]</strong> Herwanto, G. B., &amp; Prasetya Dewantara, D. \"Traffic Condition Information Extraction from Twitter Data.\" pp. 95–100. <em>Cited by: 6</em>"
+
+- title: Intellectual Property Rights (HKI)
+  type: list
+  contents:
+    - "<strong>Computer Program (2025)</strong> — Tes Panel Digital Malaria (Mikroskopis). Reg. No: EC002025181826"
+    - "<strong>Guidebook (2025)</strong> — Sintaks Immersive Learning-Growth Mindset Kapabilitas Kerja Fabrikasi Logam (Keris) berbasis Local Wisdom Value untuk Gen Z SMK. Reg. No: EC002025136475"
+    - "<strong>Module (2025)</strong> — Modul Immersive Learning-Growth Mindset Kapabilitas Kerja Fabrikasi Logam (Keris) berbasis Local Wisdom Value untuk Gen Z SMK. Reg. No: EC002025136597"
+    - "<strong>Computer Program (2025)</strong> — Model Immersive Learning Berbasis Local Wisdom Value melalui Gamifikasi untuk Meningkatkan Growth Mindset Gen Z di SMK. Reg. No: EC002025203034"
+    - "<strong>Animation Video (2019)</strong> — Video Animasi - Identifikasi Parasit Malaria Part 1 (Cara Identifikasi Parasit Malaria Secara Mikroskopis). Reg. No: EC00201983726"
+    - "<strong>Animation Video (2019)</strong> — Video Animasi - Identifikasi Parasit Malaria Part 2 (Cara Identifikasi Parasit Malaria Pada Sediaan Darah Dari Lapangan). Reg. No: EC00201983345"
+    - "<strong>Computer Program (2019)</strong> — Pemantapan Mutu Eksternal Laboratorium Malaria Melalui Tes Panel Digital Untuk Pemeriksaan Mikroskopis Sediaan Darah Malaria. Reg. No: EC00201983727"
+    - "<strong>Computer Program (2019)</strong> — ToMo: Aplikasi Monitoring Tuberkulosis Resisten Obat. Reg. No: EC00201933425"
+    - "<strong>Computer Program (2018)</strong> — Aplikasi RESIK: Deteksi Duplikasi Data Rekam Medis. Reg. No: EC00201860169"
+    - "<strong>Computer Program (2018)</strong> — Aplikasi QA-Malaria UGM. Reg. No: C00201705928"
