@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+<div class="alert alert-info" role="alert" style="margin-bottom: 2rem; padding: 1rem 1.5rem; border-left: 4px solid #4dabf7; background: #e7f5ff; border-radius: 4px;">
+  🚧 <strong>Under Construction</strong> — This page is being set up. Full publication list coming soon.
+</div>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

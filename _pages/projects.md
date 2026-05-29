@@ -9,6 +9,10 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<div class="alert alert-info" role="alert" style="margin-bottom: 2rem; padding: 1rem 1.5rem; border-left: 4px solid #4dabf7; background: #e7f5ff; border-radius: 4px;">
+  🚧 <strong>Under Construction</strong> — Project details are being added. Check back soon.
+</div>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
